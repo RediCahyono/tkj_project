@@ -1,4 +1,4 @@
-# tkj_project
+# tkj2_project
 
 #need install
 apt install git
